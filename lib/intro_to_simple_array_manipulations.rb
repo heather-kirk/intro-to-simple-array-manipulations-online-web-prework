@@ -27,14 +27,14 @@ def using_concat(array1,array2)
 end
 
 def using_insert(array, element)
-  array.insert(array,4)
+  array.insert(array,element)
 end
 
 def using_uniq(array)
   array.uniq
 end
 
-def using_flatter(array)
+def using_flatten(array)
   array.flatten
 end
 
