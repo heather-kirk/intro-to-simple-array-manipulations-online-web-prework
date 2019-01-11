@@ -1,2 +1,3 @@
 def using_push(array)
-  array = 
+  array = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
+  next
