@@ -5,7 +5,7 @@ end
 
 def using_unshift(array, neighborhoods_in_northwest_brooklyn)
   neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
-  new_neighborhood = "Brooklyn Yards"
-  neighborhoods_in_northwest_brooklyn.unshift("Brooklyn Yards")
+  new_neighborhood = "Brooklyn Heights"
+  neighborhoods_in_northwest_brooklyn.unshift("Brooklyn Heights")
 end
 
