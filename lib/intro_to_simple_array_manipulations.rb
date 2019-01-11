@@ -4,3 +4,5 @@ def using_push(array)
   artists.push(next_country)
 end
 
+def  using_unshift(array)
+  array = 
