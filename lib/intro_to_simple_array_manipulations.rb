@@ -1,7 +1,7 @@
-def using_push(artists)
-  artists = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
+def using_push(countries_in_western_africa)
+ countries_in_western_africa= ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
   next_country = "Niger"
-  artists.push(next_country)
+  countries_in_western_africa(next_country)
 end
 
 def  using_unshift(array)
