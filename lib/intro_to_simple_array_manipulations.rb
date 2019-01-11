@@ -1,6 +1,6 @@
 def using_push(array, countries_in_western_africa= ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"])
   next_country = "Niger"
-  using_push.push("Niger")
+  countries_in_western_africa.push("Niger")
 end
 
 def using_unshift(array, neighborhoods_in_northwest_brooklyn)
